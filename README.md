@@ -100,6 +100,7 @@ The Clear Lake Reservoir is a small part of the ancestral homelands of the Modoc
 ### Background Reading:
 
 * UC Davis science brief - [Rim Fire impacts on Sierra Lakes](https://tahoe.ucdavis.edu/rim-fire)
+* USDA Research Announcement: [Wildfires affect nitrogen and water quality](https://nifa.usda.gov/announcement/wildfires-affects-nitrogen-and-water-quality)
 * Oleksy, I.A, Beck, W.S., et al. "The role of warm, dry summers and variation in snowpack on phytoplankton dynamics in mountain lakes" Ecology (2020) [DOI:10.1002/ecy.3132](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecy.3132)
 * Silins, U., Bladon, K.D., et al., "Five-year legacy of wildfire and salvage logging impacts on nutrient runoff and aquatic plant, invertebrate, and fish productivity" Ecohydrology (2014) 7(6) [DOI: 10.1002/eco.1474](https://onlinelibrary-wiley-com.offcampus.lib.washington.edu/doi/full/10.1002/eco.1474)
 * Kelly, E.N., Schindler, D.W., et al., "Forest fire increases mercury accumulationby fishes via food web restructuringand increased mercury inputs" PNAS (2006) 103(51) [DOI:10.1073/pnas.0609798104](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1693476/)
